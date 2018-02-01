@@ -1,8 +1,5 @@
 # Technical-Blog
 
-#### 20180201
+* Here is the source code of my blog. 
+* Detail blogs please refer to the [wiki](https://github.com/ukulililixl/Technical-Blog/wiki)
 
-##### Shell start a technical blog in github
-
-* I want to record interesting technique here
-* I want to improving writing in English
