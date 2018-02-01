@@ -1,5 +1,9 @@
 # Technical-Blog
 
-* Here is the source code of my blog. 
-* Detail blogs please refer to the [wiki](https://github.com/ukulililixl/Technical-Blog/wiki)
+* Shell is interested in system-related techniques!
+* Shell is bad at writing in English and she wishes that she can express clearly and exercise writing via blogs!
+
+----
+
+* Shell post here first technical blog about [NFQUEUE](NFQUEUE/NFQUEUE.pdf) 
 
