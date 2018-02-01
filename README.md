@@ -7,5 +7,8 @@
 
 #### 20180201
 
+* Shell tries Typora to write markdown style blogs and it is really a nice tool! 
+
+
 * Shell post here first technical blog about [NFQUEUE](NFQUEUE/NFQUEUE.pdf) 
 
