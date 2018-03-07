@@ -13,3 +13,9 @@
 * Shell post here first technical blog about [NFQUEUE](NFQUEUE/NFQUEUE.md) 
 * TODO: update the corresponding complete source codes in the repository
 
+
+#### 20180307
+
+* Shell post the notes about [twisted](twisted.Twisted.md)
+
+  ​
