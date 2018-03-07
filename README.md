@@ -5,6 +5,11 @@
 
 ----
 
+#### 20180307
+
+* Shell post the notes about [twisted](twisted/Twisted.md)
+* The note is about asynchronous programming model
+
 #### 20180201
 
 * Shell tries Typora to write markdown style blogs and it is really a nice tool! 
@@ -14,8 +19,4 @@
 * TODO: update the corresponding complete source codes in the repository
 
 
-#### 20180307
-
-* Shell post the notes about [twisted](twisted.Twisted.md)
-
-  ​
+​
