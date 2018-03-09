@@ -86,3 +86,4 @@ Actually, this example is on level higher than the previous example. In previous
 
 **From what I can understand now, we should be very familiar with the low level interface to use the existing call back functions. And I don't know whether this is a good way to design a system like this. There is so many call back from high level to low level and sometimes we may lost in those floodings of callbacks**.
 
+**And another important thing is:** The code to deal with exception is very important. If we forget to rewrite some functions which will be called when exception happens, then nothing will happen to deal with the exception. Such that the reactor will go to the status to wait for another call back! This will lead the program into the status of waiting to the forever!
