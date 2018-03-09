@@ -7,7 +7,7 @@
 
 #### 20180309
 
-* Shell add some notes for leanring the twisted tutorial.
+* Shell add some notes for leanring the twisted tutorial [twisted](twisted/Twisted.md).
 
 #### 20180307
 
