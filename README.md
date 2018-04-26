@@ -6,6 +6,7 @@
 ----
 #### 20180426
 
+* Shell post the study notes about [fstab](LoopDevice/fstab.md)
 * Shell post the study notes about [loop device](LoopDevice/loopdevice.md)
 
 #### 20180414
