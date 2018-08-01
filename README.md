@@ -4,6 +4,10 @@
 * Shell is bad at writing in English and she wishes that she can express clearly and exercise writing via blogs!
 
 ----
+#### 20180801
+
+* Shell post the notes about [erasure coding interface](Ceph/cephecinterface.md) in ceph
+
 #### 20180426
 
 * Shell post the study notes about [fstab](LoopDevice/fstab.md)
