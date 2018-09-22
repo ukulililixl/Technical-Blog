@@ -4,6 +4,11 @@
 * Shell is bad at writing in English and she wishes that she can express clearly and exercise writing via blogs!
 
 ----
+#### 20180922
+
+* Shell plans to summarize the experience in hacking HDFS-RAID and HDFS-3 after her paper deadline.
+* From the first time writing a research paper, Shell finds that it needs painstaking efforts to develop good writing skill.
+
 #### 20180801
 
 * Shell post the notes about [erasure coding interface](Ceph/cephecinterface.md) in ceph
