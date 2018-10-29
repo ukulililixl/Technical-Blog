@@ -13,7 +13,7 @@ We first prepare three vms to test deploying OpenStack Swift using real distribu
 * swift4 (account-server, container-server, object-server)
   * ip: 172.16.83.160
 
-######System configurations in common of all the vms
+###### System configurations in common of all the vms
 
 **The following operations are performed on all the vms**
 
@@ -238,7 +238,7 @@ $> sudo service rsyslog restart
 
 #####configure
 
-######swift1
+###### swift1
 
 ```bash
 $> sudo rm -rf /etc/swift
