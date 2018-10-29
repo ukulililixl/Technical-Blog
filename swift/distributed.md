@@ -69,7 +69,7 @@ $> sudo mkdir -p /var/run/swift
 $> sudo chown -R ${USER}:${USER} /var/run/swift
 ```
 
-#####prepare loop device in storage node
+##### prepare loop device in storage node
 
 In each swift2, swift3 and swift4 which we will run storage service:
 
@@ -236,7 +236,7 @@ $> sudo chmod -R g+w /var/log/swift
 $> sudo service rsyslog restart
 ```
 
-#####configure
+##### configure
 
 ###### swift1
 
