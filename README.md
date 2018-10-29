@@ -4,6 +4,11 @@
 * Shell is bad at writing in English and she wishes that she can express clearly and exercise writing via blogs!
 
 ----
+
+#### 20181029
+
+* Shell posts the [notes](swift/distributed.md) for deploying OpenStack Swift in a small cluster
+
 #### 20181021
 
 * Shell posts the study notes for OpenStack Swift, including [Ring](swift/ring.md), [Basic Operation](swift/opration.md) and [Reconstruction](swift/reconstruct.md).
