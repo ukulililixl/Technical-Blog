@@ -1,7 +1,7 @@
 # Technical-Blog
 
 * Shell is interested in system-related techniques!
-* Shell is bad at writing in English and she wishes that she can express clearly and exercise writing via blogs!
+* Shell exercises writing skills here!
 
 ----
 
