@@ -5,6 +5,10 @@
 
 ----
 
+#### 20190502
+
+* Shell posts the [notes](serverless/aws_lambda_with_s3.md) to learn lambda with aws s3.
+
 #### 20181029
 
 * Shell posts the [notes](swift/distributed.md) for deploying OpenStack Swift in a small cluster
