@@ -5,6 +5,10 @@
 
 ----
 
+#### 20190504
+
+* Shell posts the [notes](serverless/aws_lambda_custom_runtime.md) to learn lambda using custom cpp interfaces.
+
 #### 20190502
 
 * Shell posts the [notes](serverless/aws_lambda_with_s3.md) to learn lambda with aws s3.

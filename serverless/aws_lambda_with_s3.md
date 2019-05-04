@@ -421,3 +421,5 @@ $> aws lambda create-function --function-name CreateThumbnail \
 
 Now we can upload a file into shellsvirginiabucket and then check resized object.
 
+
+
