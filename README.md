@@ -5,6 +5,10 @@
 
 ----
 
+#### 20200816
+
+* Shell posts the [notes](TiDB/week1/install_src.md) to build TiDB from the source code and deploy in a distributed mode.
+* Shell posts the [notes](TiDB/week1/hacking_tidb_entrypoint.md) to record hacking into TiDB to find the entrypoint of the transaction.
 #### 20190504
 
 * Shell posts the [notes](serverless/aws_lambda_custom_runtime.md) to learn lambda using custom cpp interfaces.
@@ -52,10 +56,10 @@
 
 #### 20180201
 
-* Shell tries Typora to write markdown style blogs and it is really a nice tool! 
+* Shell tries Typora to write markdown style blogs and it is really a nice tool!
 
 
-* Shell post here first technical blog about [NFQUEUE](NFQUEUE/NFQUEUE.md) 
+* Shell post here first technical blog about [NFQUEUE](NFQUEUE/NFQUEUE.md)
 * TODO: update the corresponding complete source codes in the repository
 
 
