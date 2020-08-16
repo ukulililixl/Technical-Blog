@@ -113,25 +113,27 @@ I find that there is an official document that introduces the life of a transact
     - It executes the statement
 
       `rs, err := cc.ctx.ExecuteStmt(ctx, stmt)`
+    - I grep this function and find it is in `driver_tidb.go`
 
 Now we go to `./server/driver_tidb.go`
 * server/driver_tidb.go
 
   `rs, err := tc.Session.ExecuteStmt(ctx, stmt)`
-  * It then go to `session.go`
+  * It then goes to `session.go`
 * session.go
   - ExecuteStmt()
     - compiler.Compile()
       - returns  ExecStmt
   - RunStmt()
     - adapter.ExecStmt.Exec()
-      - It builds executor from a plan.
-      - There is a timestamp called `txnStartTS`, which I think marks the start of a transaction.
+      - It builds executor from the plan.
+      - There is a timestamp called `txnStartTS`, which I think might marks the start of a transaction.
+      - However, I find that it does not initialized here as it is invalid.
     - Go back to session.go and find Txn
 
       `txn, err := sctx.Txn(false)`
     - Txn()
-      - It seems that this function return `TxnState`
+      - It seems that this function returns `TxnState`
 - tidb.go
   - finishStmt()
   - autoCommitAfterStmt()
