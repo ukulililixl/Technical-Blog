@@ -181,3 +181,7 @@ Worker 001: ERROR: PD server timeout
 Worker 000: ERROR: PD server timeout
 Worker 003: ERROR: PD server timeout
 ```
+
+### Bottleneck
+
+I my deployment, I think the bottleneck might be the pd server. As I only deploy 1 pd server.
