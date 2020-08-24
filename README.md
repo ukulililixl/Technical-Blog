@@ -4,6 +4,9 @@
 * Shell exercises writing skills here!
 
 ----
+#### 20200824
+* Shell posts the [notes](TiDB/week2/tiup_deploy.md) to deploy TiDB via TiUP.
+* Shell posts the [notes](TiDB/week2/perf_eval.md) to run sysbench, ycsb. I fail to run TPCC due to some errors.
 
 #### 20200816
 
